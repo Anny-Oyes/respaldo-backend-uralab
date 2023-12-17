@@ -1,0 +1,1 @@
+export { LabEntity } from "./lab.entity"

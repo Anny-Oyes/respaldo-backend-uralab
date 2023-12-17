@@ -1,0 +1,1 @@
+export { LabRegisterService } from "./lab.service"

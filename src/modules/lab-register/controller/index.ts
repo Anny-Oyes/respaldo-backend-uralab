@@ -1,0 +1,1 @@
+export { LabRegisterController } from "./lab.controller"
